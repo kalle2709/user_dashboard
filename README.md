@@ -58,7 +58,7 @@ After logging in, the user is redirected to a **dashboard** containing:
 
 4. The application is fully responsive and optimized for a seamless user experience across all devices, including mobile phones and tablets.
 
-5. ** Instructions To Run the project**:
+5. **Instructions To Run the project:**
       nstall PHP, then navigate to the src folder in the user_dashboard directory and run the command php -S localhost:8000.
 
       Next, open the login.html file in a browser, enter any email and password, and click the "Sign In" button to be redirected to the user    
