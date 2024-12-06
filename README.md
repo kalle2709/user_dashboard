@@ -61,4 +61,19 @@ After logging in, the user is redirected to a **dashboard** containing:
    Install php
    run index.php file
 
+4. The application is fully responsive and optimized for a seamless user experience across all devices, including mobile phones and tablets
+
+
+#**Images**:
+
+LOGIN
+<img width="1470" alt="Screenshot 2024-12-05 at 7 04 02 PM" src="https://github.com/user-attachments/assets/f0c69015-f591-488a-a580-19414c1382ed">
+
+DASHBOARD
+<img width="1470" alt="Screenshot 2024-12-05 at 7 04 54 PM" src="https://github.com/user-attachments/assets/0cd429c4-e802-4bd8-ba1c-334584afffb3">
+
+
+
+
+
 
